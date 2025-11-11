@@ -1,0 +1,10 @@
+[2025-11-11 08:50:09] [EBLicenseVerifier] EBLicenseVerifier v2.0.0 initialized
+[2025-11-11 08:50:09] [EBLicenseVerifier] License Key: EB-L7US5-N...
+[2025-11-11 08:50:09] [EBLicenseVerifier] Domain: demo.exchange-bridge.rf.gd
+[2025-11-11 08:50:09] [EBLicenseVerifier] IP: 37.186.40.96
+[2025-11-11 08:50:09] [EBLicenseVerifier] API URL: https://eb-admin.rf.gd/api.php
+[2025-11-11 08:50:09] [EBLicenseVerifier] Activating license with server: https://eb-admin.rf.gd/api.php
+[2025-11-11 08:50:09] [EBLicenseVerifier] Activation data: {"action":"activate","license_key":"EB-L7US5-NBCS8-NR9X6-TT5N3","domain":"demo.exchange-bridge.rf.gd","ip":"37.186.40.96","api_key":"d7x9HgT2...","product":"default"}
+[2025-11-11 08:50:09] [EBLicenseVerifier] cURL HTTP Code: 200
+[2025-11-11 08:50:09] [EBLicenseVerifier] Activation response: {"status":"success","message":"License activated successfully","validation_type":"automatic","license_status":"active","expires":null}
+[2025-11-11 08:50:09] [EBLicenseVerifier] License activated successfully
