@@ -1,0 +1,11 @@
+<?php
+// Installation lock file - DO NOT DELETE
+if (!defined('ALLOW_ACCESS')) { exit('Access Denied'); }
+return array (
+  'installed' => true,
+  'timestamp' => 1762869086,
+  'version' => '1.0.0',
+  'installation_id' => '9a345659d3a03a5ded71376f7cdff97c',
+  'php_version' => '8.3.19',
+  'installer_ip' => '37.186.40.96',
+);
