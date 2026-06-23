@@ -1,7 +1,6 @@
 <?php
 /**
- * ExchangeBridge - Core Security Protection
- *
+ * ExchangeBridge - Core Security Protection*
  * package     ExchangeBridge
  * author      Saieed Rahman
  * copyright   SidMan Solution 2025
